@@ -1,0 +1,13 @@
+{
+    "name": "Extracurricular_Activities PWA",
+    "short_name": "LessonApp",
+    "description":  "online Lesson_Store",
+    "icons": [
+      { "src": "docs/images/LessonsApp_logo.png", "sizes": "512x512", "type": "image/png" }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+  }
+  
+  
