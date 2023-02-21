@@ -1,19 +1,19 @@
 var cacheName = "lessonsapp-v1";
 var cacheFiles = [
-  "docs/index.html",
-  "docs/product.js",
-  "docs/style.css",
+  "index.html",
+  "product.js",
+  "style.css",
   "lessonapp.webmanifest",
-  "docs/images/piano class.jpg",
-  "docs/images/dance class.jpg",
-  "docs/images/language.jfif",
-  "docs/images/social.jfif",
-  "docs/images/swim.jpg",
-  "docs/images/tennis.jpg",
-  "docs/images/arts.jpg",
-  "docs/images/vlogging.jpg",
-  "docs/images/math.jpg",
-  "docs/images/LessonsApp_logo.png",
+  "images/piano class.jpg",
+  "images/dance class.jpg",
+  "images/language.jfif",
+  "images/social.jfif",
+  "images/swim.jpg",
+  "images/tennis.jpg",
+  "images/arts.jpg",
+  "images/vlogging.jpg",
+  "images/math.jpg",
+  "images/LessonsApp_logo.png",
 ];
 
 self.addEventListener("install", (e) => {
